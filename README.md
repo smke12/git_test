@@ -1,0 +1,1 @@
+This is sami’s first git project!
